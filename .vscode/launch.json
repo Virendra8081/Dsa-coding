@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/virendrakumar/Desktop/My coading work/DSA Assignment",
+      "program": "/Users/virendrakumar/Desktop/My coading work/DSA Assignment/build/Debug/outDebug"
+    }
+  ]
+}
